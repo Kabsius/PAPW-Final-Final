@@ -1,0 +1,129 @@
+body{
+	width:100%;
+	background: #5a5a5a;  
+}
+
+section{
+	-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+}
+
+aside{
+	-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+}
+
+
+#perfil{
+float:left;
+box-sizing: fixed;
+width: 20%;;
+background: #DDDDDD;
+height: 100px;
+padding: 10px;
+border: 10px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;	
+}
+
+#nombre{
+float:left;
+box-sizing: fixed;
+width: 20%;
+background: #DDDDDD;
+height: 100px;
+padding: 10px;
+border: 10px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;	
+}
+
+#marca{
+float:left;
+box-sizing: fixed;
+width: 60%;
+background: #DDDDDD;
+height: 100px;
+padding: 10px;
+border: 10px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;	
+
+}
+
+#comentario{
+float:left;
+box-sizing: fixed;
+width: 30%;
+background: #DDDDDD;
+height: 520px;
+padding: 10px;
+border: 10px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;	
+
+}
+#categoria{
+float: left;
+display: block;
+box-sizing: fixed;
+width: 20%;
+background: #DDDDDD;
+height: 520px;
+padding: 10px;
+border: 10px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+
+}
+
+.carrito{
+float: left;
+display: block;
+box-sizing: fixed;
+width: 80%;
+background: #DDDDDD;
+height: 260px;
+padding: 10px;
+border: 10px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+
+}
+.carousel-inner{
+    height: 480px;
+    	-moz-border-radius: 50px 50px 50px 50px;
+-webkit-border-radius: 50px 50px 50px 50px;
+
+
+}
+}
+#izquierda{
+	display: block;
+	float: left;
+
+}
+
+#limpia{
+	clear: both;
+}
+
+#descripcion{
+float: left;
+display: block;
+box-sizing: fixed;
+width: 50%;
+background: #DDDDDD;
+height: 520px;
+padding: 10px;
+border: 10px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
