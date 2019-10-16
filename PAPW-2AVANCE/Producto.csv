@@ -1,0 +1,15 @@
+Field,Type,Null,Key,Default,Extra
+id_producto,int(11),NO,PRI,NULL,auto_increment
+id_categoria,int(11),YES,MUL,NULL,
+id_usuario,int(11),YES,MUL,NULL,
+nombre_producto,varchar(255),NO,,NULL,
+cantidad,int(80),NO,,NULL,
+precio,float,NO,,NULL,
+oferta,float,YES,,NULL,
+video,mediumblob,YES,,NULL,
+imagen,mediumblob,YES,,NULL,
+imagen2,mediumblob,YES,,NULL,
+imagen3,mediumblob,YES,,NULL,
+descripcion,varchar(255),NO,,NULL,
+p_fecha,datetime,YES,,CURRENT_TIMESTAMP,
+valoracion,float,YES,,0,

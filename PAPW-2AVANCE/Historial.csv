@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+id_historial,int(11),NO,PRI,NULL,auto_increment
+id_usuario,int(11),YES,MUL,NULL,
+precio,float,NO,,NULL,
+producto_comprado,varchar(255),NO,,NULL,
+cantidad,int(80),NO,,NULL,
+fecha_compra,datetime,NO,,NULL,

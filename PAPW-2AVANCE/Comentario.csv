@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+id_comentario,int(11),NO,PRI,NULL,auto_increment
+id_usuario,int(11),YES,MUL,NULL,
+id_producto,int(11),YES,MUL,NULL,
+comentario,varchar(255),NO,,NULL,
+coment_date,datetime,NO,,NULL,

@@ -1,0 +1,13 @@
+Field,Type,Null,Key,Default,Extra
+id_Usuario,int(11),NO,PRI,NULL,auto_increment
+nombre,varchar(255),NO,,NULL,
+apellidoP,varchar(255),NO,,NULL,
+apellidoM,varchar(255),NO,,NULL,
+correo,varchar(255),NO,UNI,NULL,
+telefono,int(80),NO,UNI,NULL,
+celular,int(80),NO,UNI,NULL,
+nombreUsuario,varchar(255),NO,UNI,NULL,
+passwordUsuario,varchar(255),NO,,NULL,
+imagen_usuario,mediumblob,YES,,NULL,
+presupuesto,int(80),YES,,0,
+nivel,int(2),NO,,NULL,
